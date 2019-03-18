@@ -8,7 +8,7 @@
 
 * **Storage engine:** InnoDB 
 
-Altre informazioni utili nella [Documentazione](./Docs/Relazione Progetto - Basi di Dati.pdf)
+Altre informazioni utili nella [Documentazione](./Docs/Relazione_Progetto-Basi_di_Dati.pdf)
 
 ## Schema Entity-Relationship di progettazione
 
