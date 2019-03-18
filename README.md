@@ -16,4 +16,4 @@ Altre informazioni utili nella [Documentazione](./Docs/Relazione_Progetto-Basi_d
 
 ## Schema Logico di progettazione
 
-![Schema Logico](link_qui!!! "Schema Logico del database")
+![Schema Logico](./Progettazione/Schema_Logico.png "Schema Logico del database")
