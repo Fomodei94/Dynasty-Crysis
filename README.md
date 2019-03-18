@@ -12,7 +12,7 @@ Altre informazioni utili nella [Documentazione](./Docs/Relazione_Progetto-Basi_d
 
 ## Schema Entity-Relationship di progettazione
 
-![Schema ER](link_qui!!! "Schema ER del database")
+![Schema ER](./Progettazione/SchemaER_Ristrutturato.png "Schema ER del database")
 
 ## Schema Logico di progettazione
 
